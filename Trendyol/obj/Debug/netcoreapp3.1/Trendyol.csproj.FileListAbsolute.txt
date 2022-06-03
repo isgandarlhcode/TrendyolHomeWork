@@ -1,0 +1,14 @@
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.exe
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.deps.json
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.runtimeconfig.json
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.runtimeconfig.dev.json
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.dll
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.pdb
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.csproj.AssemblyReference.cache
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.AssemblyInfoInputs.cache
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.AssemblyInfo.cs
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.csproj.CoreCompileInputs.cache
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.dll
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.pdb
+C:\Users\Qosmio\source\repos\Trendyol\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.genruntimeconfig.cache
